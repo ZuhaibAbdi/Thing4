@@ -19,4 +19,6 @@ form.addEventListener('submit', e => {
     emailValue.unshift(email.value)
 
     user = `${nameValue[0]} ${emailValue[0]}`
+
+    alert('Was This Website GOOOOOOD!!!!!!!!!!!!')
 })
