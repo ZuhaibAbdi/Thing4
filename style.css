@@ -38,3 +38,9 @@ nav#navbar ul li a:hover {
     display: inline-block;
     margin-right: 50px;
 }
+
+.img-container h3 {
+    position: relative;
+    top: -200px;
+    left: -300px;
+}
