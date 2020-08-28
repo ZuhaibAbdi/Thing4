@@ -44,3 +44,12 @@ nav#navbar ul li a:hover {
     top: -200px;
     left: -300px;
 }
+
+.courseline1 {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.courseline1 button {
+    display: block;
+}
